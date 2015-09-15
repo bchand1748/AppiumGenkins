@@ -28,7 +28,7 @@ public class NewTest {
 	 capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Android");
 	 capabilities.setCapability(MobileCapabilityType.APP, app.getAbsolutePath());
      driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
-	
+	//emu
 	Thread.sleep(15000);
 	try{
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
