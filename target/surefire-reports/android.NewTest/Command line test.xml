@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="BKUSL-6QBN7W1" name="android.NewTest" tests="1" failures="0" timestamp="15 Sep 2015 18:11:25 GMT" time="100.298" errors="0">
+  <testcase name="prep" time="100.284" classname="android.NewTest"/>
+</testsuite>

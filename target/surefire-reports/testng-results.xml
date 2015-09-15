@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="android.NewTest" duration-ms="100298" started-at="2015-09-15T14:09:44Z" finished-at="2015-09-15T14:11:25Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="100298" started-at="2015-09-15T14:09:44Z" finished-at="2015-09-15T14:11:25Z">
+      <class name="android.NewTest">
+        <test-method status="PASS" signature="prep()" name="prep" duration-ms="100284" started-at="2015-09-15T14:09:44Z" finished-at="2015-09-15T14:11:25Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
